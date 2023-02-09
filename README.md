@@ -1,4 +1,4 @@
-Watch the website as a live demo:
+Watch the website as a live demo:<br>
 https://solesen1992.github.io/Artist_website/
 
 Description: <br>
